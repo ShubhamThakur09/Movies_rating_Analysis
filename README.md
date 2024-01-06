@@ -1,5 +1,3 @@
-# Movies_rating_Analysis
-
 # Movies Rating Analysis Project
 
 ## Overview
